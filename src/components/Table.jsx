@@ -26,12 +26,12 @@ console.log(items)
         <table className="Table" border="1">
           <thead>
           <tr>
-            <th>ID git init:</th>
-            <th>Name git add .:</th>
-            <th>Data git commit -m "first commit":</th>
-            <th>Tags git branch -M main:</th>
-            <th>Img git remote add origin https://github.com/JahongirPs/TABLE_BRO-.git:</th>
-            <th>Season git push -u origin ma:</th>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Data </th>
+            <th>Tags</th>
+            <th>Img </th>
+            <th>Season</th>
           </tr>
           </thead>
           <tbody>
